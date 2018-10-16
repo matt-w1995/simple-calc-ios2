@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="simple_calc" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="simple_calc_iOS" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -192,10 +192,18 @@
                                     <action selector="factorial:" destination="BYZ-38-t0r" eventType="touchUpInside" id="l03-iw-DyP"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hOp-EG-nnG">
+                                <rect key="frame" x="155" y="535" width="65" height="58"/>
+                                <state key="normal" title="."/>
+                                <connections>
+                                    <action selector="numberTouched:forEvent:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Wo9-hi-lMs"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="hsT-PA-dTJ" firstAttribute="baseline" secondItem="9L6-o4-6Im" secondAttribute="firstBaseline" id="0O0-UB-Qwq"/>
+                            <constraint firstItem="hOp-EG-nnG" firstAttribute="top" secondItem="q6a-sB-b8V" secondAttribute="bottom" constant="8" symbolic="YES" id="0ix-vd-Leg"/>
                             <constraint firstItem="hsT-PA-dTJ" firstAttribute="top" secondItem="9L6-o4-6Im" secondAttribute="top" id="1nK-Al-ZB0"/>
                             <constraint firstItem="1fl-D3-INH" firstAttribute="baseline" secondItem="tOH-eh-B8r" secondAttribute="firstBaseline" id="25g-Ru-f38"/>
                             <constraint firstItem="tOH-eh-B8r" firstAttribute="leading" secondItem="4Xm-w0-GXa" secondAttribute="leading" id="2cz-06-zjf"/>
@@ -212,6 +220,7 @@
                             <constraint firstItem="O4q-Uq-AkI" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="8SK-We-KvK"/>
                             <constraint firstItem="tOH-eh-B8r" firstAttribute="leading" secondItem="gwF-Jt-jDs" secondAttribute="trailing" constant="8" symbolic="YES" id="8lT-cq-hHQ"/>
                             <constraint firstItem="Q90-Wz-kO7" firstAttribute="baseline" secondItem="gwF-Jt-jDs" secondAttribute="firstBaseline" id="9eD-It-shn"/>
+                            <constraint firstItem="hOp-EG-nnG" firstAttribute="centerX" secondItem="O4q-Uq-AkI" secondAttribute="centerX" id="Axv-fn-pd6"/>
                             <constraint firstItem="epc-8V-rs5" firstAttribute="top" secondItem="uZr-oJ-lfC" secondAttribute="top" id="ED9-1w-UIn"/>
                             <constraint firstItem="gwF-Jt-jDs" firstAttribute="baseline" secondItem="tOH-eh-B8r" secondAttribute="baseline" id="F3a-Z0-s2U"/>
                             <constraint firstItem="ahp-Mp-v5b" firstAttribute="leading" secondItem="q6a-sB-b8V" secondAttribute="trailing" constant="8" symbolic="YES" id="FFe-Tn-pVa"/>
@@ -220,12 +229,14 @@
                             <constraint firstItem="9L6-o4-6Im" firstAttribute="baseline" secondItem="koG-Tp-04K" secondAttribute="firstBaseline" id="GtU-DV-eTb"/>
                             <constraint firstItem="B8Y-nI-eBq" firstAttribute="leading" secondItem="koG-Tp-04K" secondAttribute="trailing" constant="8" symbolic="YES" id="HhS-ki-Tgn"/>
                             <constraint firstItem="Y4y-lZ-vBN" firstAttribute="top" secondItem="dtt-B5-O4b" secondAttribute="top" id="Hol-A8-TJC"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="hOp-EG-nnG" secondAttribute="bottom" constant="74" id="J9a-bl-91x"/>
                             <constraint firstItem="koG-Tp-04K" firstAttribute="top" secondItem="B8Y-nI-eBq" secondAttribute="top" id="JvB-cd-lwN"/>
                             <constraint firstItem="C3n-7L-LTc" firstAttribute="trailing" secondItem="ahp-Mp-v5b" secondAttribute="trailing" id="KNC-yh-Auv"/>
                             <constraint firstItem="q6a-sB-b8V" firstAttribute="baseline" secondItem="ahp-Mp-v5b" secondAttribute="firstBaseline" id="Lyo-b3-jf5"/>
                             <constraint firstItem="CYI-3Q-YZi" firstAttribute="leading" secondItem="dtt-B5-O4b" secondAttribute="trailing" constant="7" id="Mlw-h8-3cj"/>
                             <constraint firstItem="T36-pC-0lK" firstAttribute="leading" secondItem="Q90-Wz-kO7" secondAttribute="leading" id="NBV-au-4gR"/>
                             <constraint firstItem="T36-pC-0lK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="45" id="ONh-PJ-vp8"/>
+                            <constraint firstItem="hOp-EG-nnG" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="155" id="OgY-6H-OOY"/>
                             <constraint firstItem="uZr-oJ-lfC" firstAttribute="leading" secondItem="epc-8V-rs5" secondAttribute="trailing" constant="8" symbolic="YES" id="P3g-Ix-IE4"/>
                             <constraint firstItem="1fl-D3-INH" firstAttribute="leading" secondItem="C3n-7L-LTc" secondAttribute="leading" id="P7Z-mJ-rZk"/>
                             <constraint firstItem="Q90-Wz-kO7" firstAttribute="top" secondItem="T36-pC-0lK" secondAttribute="bottom" constant="8" symbolic="YES" id="R47-hp-hGP"/>
