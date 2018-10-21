@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b085c9ba3f6ecf4e7a6cd0d6d17baa20"
+build_time: [1540080966, 436995000]
+inputs:
+  "/Users/matthewwong/Documents/iOSDev/simple-calc-ios2/simple-calc-iOS2/ViewController.swift": [1540080966, 0]
+  "/Users/matthewwong/Documents/iOSDev/simple-calc-ios2/simple-calc-iOS2/AppDelegate.swift": [1539718067, 0]

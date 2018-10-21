@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>02611C2B-1678-4CBD-BBAE-5AF23121669F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>02611C2B-1678-4CBD-BBAE-5AF23121669F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561770361.49019802</real>
+			<key>timeStoppedRecording</key>
+			<real>561770388.96441197</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>02611C2B-1678-4CBD-BBAE-5AF23121669F</string>
+		</dict>
+		<key>038C709D-9F56-470E-B9CF-2012F2C4D28F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>038C709D-9F56-470E-B9CF-2012F2C4D28F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561773769.68863904</real>
+			<key>timeStoppedRecording</key>
+			<real>561773826.70316899</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>038C709D-9F56-470E-B9CF-2012F2C4D28F</string>
+		</dict>
+		<key>0DFE6F07-90EE-4D5D-87FC-9E9CCA6BD2F5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0DFE6F07-90EE-4D5D-87FC-9E9CCA6BD2F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561773690.79706502</real>
+			<key>timeStoppedRecording</key>
+			<real>561773765.81957805</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>0DFE6F07-90EE-4D5D-87FC-9E9CCA6BD2F5</string>
+		</dict>
+		<key>1AB8AC6B-8820-4086-99F1-1EAED25BF5A6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1AB8AC6B-8820-4086-99F1-1EAED25BF5A6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561767764.78479505</real>
+			<key>timeStoppedRecording</key>
+			<real>561767808.05564702</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>1AB8AC6B-8820-4086-99F1-1EAED25BF5A6</string>
+		</dict>
+		<key>1E76F092-D676-451B-BE91-8952A84FB745</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1E76F092-D676-451B-BE91-8952A84FB745.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561770235.96488202</real>
+			<key>timeStoppedRecording</key>
+			<real>561770356.54325104</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>1E76F092-D676-451B-BE91-8952A84FB745</string>
+		</dict>
+		<key>248FACB7-AA1F-4C76-93A9-AF996CCEC525</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>248FACB7-AA1F-4C76-93A9-AF996CCEC525.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768059.52356899</real>
+			<key>timeStoppedRecording</key>
+			<real>561768129.97498703</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>248FACB7-AA1F-4C76-93A9-AF996CCEC525</string>
+		</dict>
+		<key>321C1152-E112-4D09-98DC-52F43EE10475</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>321C1152-E112-4D09-98DC-52F43EE10475.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561769081.50899994</real>
+			<key>timeStoppedRecording</key>
+			<real>561769899.74793506</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>321C1152-E112-4D09-98DC-52F43EE10475</string>
+		</dict>
+		<key>326E8C3A-E93B-4CCD-A7CB-7F419830E4EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>326E8C3A-E93B-4CCD-A7CB-7F419830E4EA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768622.42978799</real>
+			<key>timeStoppedRecording</key>
+			<real>561768720.87301099</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>326E8C3A-E93B-4CCD-A7CB-7F419830E4EA</string>
+		</dict>
+		<key>3DF9EB21-B21C-45EC-A1E2-CFF4653B9212</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3DF9EB21-B21C-45EC-A1E2-CFF4653B9212.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561767877.93012798</real>
+			<key>timeStoppedRecording</key>
+			<real>561767996.26611698</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>3DF9EB21-B21C-45EC-A1E2-CFF4653B9212</string>
+		</dict>
+		<key>469B6A12-4CC7-4B55-9CD7-965646CB037C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>469B6A12-4CC7-4B55-9CD7-965646CB037C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561769903.03315902</real>
+			<key>timeStoppedRecording</key>
+			<real>561769918.21514595</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>469B6A12-4CC7-4B55-9CD7-965646CB037C</string>
+		</dict>
+		<key>65A5A827-8564-4EA2-872E-AB0F8D66C93C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65A5A827-8564-4EA2-872E-AB0F8D66C93C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768000.14979398</real>
+			<key>timeStoppedRecording</key>
+			<real>561768027.92792797</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>65A5A827-8564-4EA2-872E-AB0F8D66C93C</string>
+		</dict>
+		<key>97F4BC98-2B03-4BB0-B788-984A938F938C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>97F4BC98-2B03-4BB0-B788-984A938F938C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561770391.40381896</real>
+			<key>timeStoppedRecording</key>
+			<real>561770444.93660796</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>97F4BC98-2B03-4BB0-B788-984A938F938C</string>
+		</dict>
+		<key>9ECB4597-45FE-4E5C-84E1-C5E3069FC175</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9ECB4597-45FE-4E5C-84E1-C5E3069FC175.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561771133.22156799</real>
+			<key>timeStoppedRecording</key>
+			<real>561773681.16754901</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>9ECB4597-45FE-4E5C-84E1-C5E3069FC175</string>
+		</dict>
+		<key>C1E0F60F-3C40-475F-8E52-CC781B7D9E40</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1E0F60F-3C40-475F-8E52-CC781B7D9E40.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561770911.06509197</real>
+			<key>timeStoppedRecording</key>
+			<real>561771127.79743099</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>C1E0F60F-3C40-475F-8E52-CC781B7D9E40</string>
+		</dict>
+		<key>C3A7B381-CBFD-481C-805F-0974D1B854DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C3A7B381-CBFD-481C-805F-0974D1B854DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768723.07730603</real>
+			<key>timeStoppedRecording</key>
+			<real>561768978.84385395</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>C3A7B381-CBFD-481C-805F-0974D1B854DD</string>
+		</dict>
+		<key>D765AF3C-AE67-446B-873E-4055FA5A86BD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D765AF3C-AE67-446B-873E-4055FA5A86BD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768983.67339802</real>
+			<key>timeStoppedRecording</key>
+			<real>561769079.16045499</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>D765AF3C-AE67-446B-873E-4055FA5A86BD</string>
+		</dict>
+		<key>D8FAA592-D755-4012-9675-7C20E11DD96C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D8FAA592-D755-4012-9675-7C20E11DD96C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561767528.37975597</real>
+			<key>timeStoppedRecording</key>
+			<real>561767705.02085698</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>D8FAA592-D755-4012-9675-7C20E11DD96C</string>
+		</dict>
+		<key>EC4ACEEA-324E-49F0-BED6-CA285627BDAE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC4ACEEA-324E-49F0-BED6-CA285627BDAE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561770456.59484804</real>
+			<key>timeStoppedRecording</key>
+			<real>561770655.405563</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>EC4ACEEA-324E-49F0-BED6-CA285627BDAE</string>
+		</dict>
+		<key>F0D00BA4-80EF-4D88-84EA-AF64F4F49629</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F0D00BA4-80EF-4D88-84EA-AF64F4F49629.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561767812.26928902</real>
+			<key>timeStoppedRecording</key>
+			<real>561767875.40512502</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>F0D00BA4-80EF-4D88-84EA-AF64F4F49629</string>
+		</dict>
+		<key>FFC9DC55-8979-480A-8E9C-277C7B6FCD06</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FFC9DC55-8979-480A-8E9C-277C7B6FCD06.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561768210.80196202</real>
+			<key>timeStoppedRecording</key>
+			<real>561768617.53438795</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>FFC9DC55-8979-480A-8E9C-277C7B6FCD06</string>
+		</dict>
+		<key>FFFA2198-FC2C-4565-B4AA-08982AC45219</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FFFA2198-FC2C-4565-B4AA-08982AC45219.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>simple-calc-iOS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simple-calc-iOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>timeStartedRecording</key>
+			<real>561773831.00066805</real>
+			<key>timeStoppedRecording</key>
+			<real>561773937.17065299</real>
+			<key>title</key>
+			<string>Debug simple-calc-iOS2</string>
+			<key>uniqueIdentifier</key>
+			<string>FFFA2198-FC2C-4565-B4AA-08982AC45219</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
